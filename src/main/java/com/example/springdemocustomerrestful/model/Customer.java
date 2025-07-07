@@ -1,7 +1,5 @@
 package com.example.springdemocustomerrestful.model;
 
-import com.sun.tools.javac.jvm.Gen;
-
 import javax.persistence.*;
 import javax.validation.constraints.*;
 import java.time.LocalDate;
